@@ -34,9 +34,9 @@ The install script included in the dash repo will install all the required packa
 
 ### 1. Clone the repo, Run the install script
 ```
-git clone https://github.com/openDsh/dash
+git clone https://github.com/FlynnMay/skydash
 
-cd dash
+cd skydash
 
 ./install.sh
 ```
